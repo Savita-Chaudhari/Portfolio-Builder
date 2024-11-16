@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1729154906777",
+      "name": "neha",
+      "email": "nehavaghela11@gmail.com",
+      "password": "456",
+      "status": "Unblock"
+    },
+    {
+      "id": "1729155404750",
+      "name": "sagar",
+      "email": "sagar@gamil.com",
+      "password": "123",
+      "status": "Unblock"
+    },
+    {
+      "id": "1729155550375",
+      "name": "niku",
+      "email": "niku@gamil.com",
+      "password": "123",
+      "status": "Unblock"
+    },
+    {
+      "id": "1729156033644",
+      "name": "1",
+      "email": "1",
+      "password": "1",
+      "status": "Unblock"
+    },
+    {
+      "id": "1729158027517",
+      "name": "neha",
+      "email": "nehavaghela11@gmail.com",
+      "password": "456",
+      "status": "Unblock"
+    },
+    {
+      "id": "1729159569436",
+      "name": "neha2112",
+      "email": "nehavaghela1111@gmail.com",
+      "password": "456",
+      "status": "Unblock"
+    }
+  ]
+}
